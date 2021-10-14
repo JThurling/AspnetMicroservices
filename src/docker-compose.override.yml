@@ -11,6 +11,7 @@ services:
   
   catalog.api:
     container_name: catalog.api
+    restart: always
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - "DatabaseSettings:ConnectionString=mongodb://catalogdb:27017"
