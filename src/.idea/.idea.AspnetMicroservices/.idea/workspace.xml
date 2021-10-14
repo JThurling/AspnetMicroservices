@@ -6,20 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a664d63e-8505-4351-b012-7ffe4cb0c31c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Data/CatalogContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Data/CatalogContextSeed.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Data/ICatalogContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Entities/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Repository/IProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Repository/ProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Controllers/CatalogController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.dcproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AspnetMicroservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AspnetMicroservices/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AspnetMicroservices.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AspnetMicroservices.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Catalog.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Catalog/Catalog.API/Startup.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Catalog.API">
@@ -88,7 +86,7 @@
       <updated>1633680520681</updated>
       <workItem from="1633680530831" duration="666000" />
       <workItem from="1633681230826" duration="112000" />
-      <workItem from="1633932818905" duration="7947000" />
+      <workItem from="1633932818905" duration="17453000" />
     </task>
     <servers />
   </component>
